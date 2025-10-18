@@ -1,0 +1,23 @@
+{
+  "name": "Plunder NFT #6",
+  "description": "A unique triangle from the Plunder NFT Collection. This is token #6 of 100.",
+  "image": "ipfs://bafybeidahomtti2qxir3jt2q36h5z62r45sepibnzym7pxpsnhm5v3uwki/shape-006.svg",
+  "attributes": [
+    {
+      "trait_type": "Shape",
+      "value": "Triangle"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#F7DC6F"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Number",
+      "value": 6
+    }
+  ]
+}

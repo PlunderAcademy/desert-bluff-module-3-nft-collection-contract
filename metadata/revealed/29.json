@@ -1,0 +1,23 @@
+{
+  "name": "Plunder NFT #29",
+  "description": "A unique rectangle from the Plunder NFT Collection. This is token #29 of 100.",
+  "image": "ipfs://bafybeidahomtti2qxir3jt2q36h5z62r45sepibnzym7pxpsnhm5v3uwki/shape-029.svg",
+  "attributes": [
+    {
+      "trait_type": "Shape",
+      "value": "Rectangle"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#F8B88B"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Number",
+      "value": 29
+    }
+  ]
+}

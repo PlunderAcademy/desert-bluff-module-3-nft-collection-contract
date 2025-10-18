@@ -1,0 +1,23 @@
+{
+  "name": "Plunder NFT #49",
+  "description": "A unique circle from the Plunder NFT Collection. This is token #49 of 100.",
+  "image": "ipfs://bafybeidahomtti2qxir3jt2q36h5z62r45sepibnzym7pxpsnhm5v3uwki/shape-049.svg",
+  "attributes": [
+    {
+      "trait_type": "Shape",
+      "value": "Circle"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#F8B88B"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Number",
+      "value": 49
+    }
+  ]
+}

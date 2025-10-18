@@ -1,0 +1,23 @@
+{
+  "name": "Plunder NFT #11",
+  "description": "A unique diamond from the Plunder NFT Collection. This is token #11 of 100.",
+  "image": "ipfs://bafybeidahomtti2qxir3jt2q36h5z62r45sepibnzym7pxpsnhm5v3uwki/shape-011.svg",
+  "attributes": [
+    {
+      "trait_type": "Shape",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#FF6B6B"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Number",
+      "value": 11
+    }
+  ]
+}

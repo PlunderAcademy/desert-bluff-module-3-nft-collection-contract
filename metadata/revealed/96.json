@@ -1,0 +1,23 @@
+{
+  "name": "Plunder NFT #96",
+  "description": "A unique diamond from the Plunder NFT Collection. This is token #96 of 100.",
+  "image": "ipfs://bafybeidahomtti2qxir3jt2q36h5z62r45sepibnzym7pxpsnhm5v3uwki/shape-096.svg",
+  "attributes": [
+    {
+      "trait_type": "Shape",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#F7DC6F"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Number",
+      "value": 96
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Plunder NFT #86",
+  "description": "A unique rectangle from the Plunder NFT Collection. This is token #86 of 100.",
+  "image": "ipfs://bafybeidahomtti2qxir3jt2q36h5z62r45sepibnzym7pxpsnhm5v3uwki/shape-086.svg",
+  "attributes": [
+    {
+      "trait_type": "Shape",
+      "value": "Rectangle"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#F7DC6F"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Number",
+      "value": 86
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Plunder NFT #10",
+  "description": "A unique circle from the Plunder NFT Collection. This is token #10 of 100.",
+  "image": "ipfs://bafybeidahomtti2qxir3jt2q36h5z62r45sepibnzym7pxpsnhm5v3uwki/shape-010.svg",
+  "attributes": [
+    {
+      "trait_type": "Shape",
+      "value": "Circle"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#52C76A"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Number",
+      "value": 10
+    }
+  ]
+}

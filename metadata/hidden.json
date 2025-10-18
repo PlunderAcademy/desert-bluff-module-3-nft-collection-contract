@@ -1,0 +1,12 @@
+{
+    "name": "Mystery Plunder NFT",
+    "description": "A mysterious NFT from the Plunder Collection. Reveal coming soon!",
+    "image": "ipfs://bafkreicvxktjoert7guinfh7ynz435mb3nucd2ddqzv5dwimsmkyo4qy3a/hidden-image.svg",
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "Hidden"
+      }
+    ]
+  }
+  

@@ -1,0 +1,23 @@
+{
+  "name": "Plunder NFT #99",
+  "description": "A unique triangle from the Plunder NFT Collection. This is token #99 of 100.",
+  "image": "ipfs://bafybeidahomtti2qxir3jt2q36h5z62r45sepibnzym7pxpsnhm5v3uwki/shape-099.svg",
+  "attributes": [
+    {
+      "trait_type": "Shape",
+      "value": "Triangle"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#F8B88B"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Number",
+      "value": 99
+    }
+  ]
+}

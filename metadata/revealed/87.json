@@ -1,0 +1,23 @@
+{
+  "name": "Plunder NFT #87",
+  "description": "A unique triangle from the Plunder NFT Collection. This is token #87 of 100.",
+  "image": "ipfs://bafybeidahomtti2qxir3jt2q36h5z62r45sepibnzym7pxpsnhm5v3uwki/shape-087.svg",
+  "attributes": [
+    {
+      "trait_type": "Shape",
+      "value": "Triangle"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#BB8FCE"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Number",
+      "value": 87
+    }
+  ]
+}

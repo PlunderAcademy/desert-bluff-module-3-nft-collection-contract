@@ -1,0 +1,23 @@
+{
+  "name": "Plunder NFT #77",
+  "description": "A unique rectangle from the Plunder NFT Collection. This is token #77 of 100.",
+  "image": "ipfs://bafybeidahomtti2qxir3jt2q36h5z62r45sepibnzym7pxpsnhm5v3uwki/shape-077.svg",
+  "attributes": [
+    {
+      "trait_type": "Shape",
+      "value": "Rectangle"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#BB8FCE"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Number",
+      "value": 77
+    }
+  ]
+}

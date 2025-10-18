@@ -1,0 +1,23 @@
+{
+  "name": "Plunder NFT #82",
+  "description": "A unique circle from the Plunder NFT Collection. This is token #82 of 100.",
+  "image": "ipfs://bafybeidahomtti2qxir3jt2q36h5z62r45sepibnzym7pxpsnhm5v3uwki/shape-082.svg",
+  "attributes": [
+    {
+      "trait_type": "Shape",
+      "value": "Circle"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#4ECDC4"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Number",
+      "value": 82
+    }
+  ]
+}

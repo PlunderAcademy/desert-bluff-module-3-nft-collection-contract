@@ -1,0 +1,23 @@
+{
+  "name": "Plunder NFT #83",
+  "description": "A unique diamond from the Plunder NFT Collection. This is token #83 of 100.",
+  "image": "ipfs://bafybeidahomtti2qxir3jt2q36h5z62r45sepibnzym7pxpsnhm5v3uwki/shape-083.svg",
+  "attributes": [
+    {
+      "trait_type": "Shape",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#45B7D1"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Number",
+      "value": 83
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Plunder NFT #33",
+  "description": "A unique triangle from the Plunder NFT Collection. This is token #33 of 100.",
+  "image": "ipfs://bafybeidahomtti2qxir3jt2q36h5z62r45sepibnzym7pxpsnhm5v3uwki/shape-033.svg",
+  "attributes": [
+    {
+      "trait_type": "Shape",
+      "value": "Triangle"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#45B7D1"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Number",
+      "value": 33
+    }
+  ]
+}

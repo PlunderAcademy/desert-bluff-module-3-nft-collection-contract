@@ -1,0 +1,23 @@
+{
+  "name": "Plunder NFT #26",
+  "description": "A unique rectangle from the Plunder NFT Collection. This is token #26 of 100.",
+  "image": "ipfs://bafybeidahomtti2qxir3jt2q36h5z62r45sepibnzym7pxpsnhm5v3uwki/shape-026.svg",
+  "attributes": [
+    {
+      "trait_type": "Shape",
+      "value": "Rectangle"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#F7DC6F"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Number",
+      "value": 26
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Plunder NFT #68",
+  "description": "A unique rectangle from the Plunder NFT Collection. This is token #68 of 100.",
+  "image": "ipfs://bafybeidahomtti2qxir3jt2q36h5z62r45sepibnzym7pxpsnhm5v3uwki/shape-068.svg",
+  "attributes": [
+    {
+      "trait_type": "Shape",
+      "value": "Rectangle"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#85C1E2"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Number",
+      "value": 68
+    }
+  ]
+}

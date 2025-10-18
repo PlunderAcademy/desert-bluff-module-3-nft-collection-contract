@@ -1,0 +1,43 @@
+{
+  "name": "desert-bluff-module-3-nft-collection-contract",
+  "version": "0.12.18",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "compile": "npx hardhat compile",
+      "test": "npx hardhat test",
+      "deploy:local": "npx hardhat run scripts/deploy-nft.ts",
+      "deploy:testnet": "HARDHAT_NETWORK=zilliqaTestnet npx hardhat run scripts/deploy-nft.ts --network zilliqaTestnet",
+      "mint:local": "npx hardhat run scripts/mint-nft.ts",
+      "mint:testnet": "HARDHAT_NETWORK=zilliqaTestnet npx hardhat run scripts/mint-nft.ts --network zilliqaTestnet",
+      "reveal:local": "npx hardhat run scripts/reveal.ts",
+      "reveal:testnet": "HARDHAT_NETWORK=zilliqaTestnet npx hardhat run scripts/reveal.ts --network zilliqaTestnet",
+      "interact:local": "npx hardhat run scripts/interact.ts",
+      "interact:testnet": "HARDHAT_NETWORK=zilliqaTestnet npx hardhat run scripts/interact.ts --network zilliqaTestnet"
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PlunderAcademy/desert-bluff-module-3-nft-collection-contract.git"
+  },
+  "keywords": [],
+  "author": "Gary Smallacombe <gary.smallacombe@gmail.com> (https://plunderswap.com/)",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/PlunderAcademy/desert-bluff-module-3-nft-collection-contract/issues"
+  },
+  "homepage": "https://github.com/PlunderAcademy/desert-bluff-module-3-nft-collection-contract#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ignition": "^3.0.3",
+    "@nomicfoundation/hardhat-toolbox-viem": "^5.0.0",
+    "@types/node": "^22.18.11",
+    "forge-std": "github:foundry-rs/forge-std#v1.9.4",
+    "hardhat": "^3.0.7",
+    "typescript": "~5.8.0",
+    "viem": "^2.38.3"
+  },
+  "type": "module",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0",
+    "dotenv": "^17.2.3"
+  }
+}

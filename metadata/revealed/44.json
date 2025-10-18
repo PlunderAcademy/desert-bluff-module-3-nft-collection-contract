@@ -1,0 +1,23 @@
+{
+  "name": "Plunder NFT #44",
+  "description": "A unique rectangle from the Plunder NFT Collection. This is token #44 of 100.",
+  "image": "ipfs://bafybeidahomtti2qxir3jt2q36h5z62r45sepibnzym7pxpsnhm5v3uwki/shape-044.svg",
+  "attributes": [
+    {
+      "trait_type": "Shape",
+      "value": "Rectangle"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#FFA07A"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Number",
+      "value": 44
+    }
+  ]
+}

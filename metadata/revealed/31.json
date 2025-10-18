@@ -1,0 +1,23 @@
+{
+  "name": "Plunder NFT #31",
+  "description": "A unique circle from the Plunder NFT Collection. This is token #31 of 100.",
+  "image": "ipfs://bafybeidahomtti2qxir3jt2q36h5z62r45sepibnzym7pxpsnhm5v3uwki/shape-031.svg",
+  "attributes": [
+    {
+      "trait_type": "Shape",
+      "value": "Circle"
+    },
+    {
+      "trait_type": "Color",
+      "value": "#FF6B6B"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Number",
+      "value": 31
+    }
+  ]
+}
